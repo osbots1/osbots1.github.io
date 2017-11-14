@@ -4,7 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-##Project  
+#Project  
+---------
     ####Aviation Insurance  
 ##Qualifications  
     ####Bachelor of Information Technology  
