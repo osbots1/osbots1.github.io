@@ -6,7 +6,7 @@ permalink: /Professional proficiency/
 
 #### How often do you attend scheduled group meetings/scrums?  
   
-# ★ ★ ★ ★ ![Team scrum]({{ "/files/img/half_star.jpg" | absolute_url }}) 
+# ★ ★ ★ ★ ½
   
 My example ratings here are for our third year project group, BIT Platform… We have scheduled meetings every Monday and Thursday, and I am always in attendance. To the best of my knowledge, I have not missed a single meeting this year. Here is a picture from one of our group meetings:  
   
@@ -25,7 +25,7 @@ Most of my communication happens on Slack. I try to respond to questions and com
   
 #### How well did you document your work throughout the project?  
   
-# ★ ★ ★ ☆ 
+# ★ ★ ★ ½ 
   
 Yeah, about that . . .  
 I feel that my documentation via Slack and in my coding was fine, but I was a bit remiss when it came to recording my work as I went. Their were two main reasons why I failed to document my work effectively:  
