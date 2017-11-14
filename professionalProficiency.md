@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional proficiency
-permalink: /professionalProficiency.md
+permalink: /Professional proficiency/
 ---
 
 # How often do you attend scheduled group meetings/scrums?  
