@@ -8,7 +8,7 @@ permalink: /Professional proficiency/
   
 # ★ ★ ★ ★ ½
   
-I certainly tried my best to attend all scheduled meetings/scrums; however, I was unable to attend some of the in-class meetings due to work commitments. On the rare occasions when I was unable to attend, I would notify the group via Slack in advance. I would also try to make myself available via Slack during the meetings.  
+I attended the vast majority of scheduled meetings/scrums; however, I was unable to attend some of the in-class meetings due to work commitments. On the rare occasions when I was unable to attend, I would notify the group via Slack in advance. I would also try to make myself available via Slack during the meetings.  
 As a group, we also had meetings after-hours, during weekends and during the Polytech holidays. These additional meetings were normally planned so that those off us with full and part time work commitments were able to attend without issue. 
   
 ![Team scrum]({{ "/files/img/scrum.jpg" | absolute_url }})  
@@ -23,7 +23,7 @@ When we were face to face, we quite often had constructive debates about the dir
 ![Team communication]({{ "/files/img/coms1.jpg" | absolute_url }}) 
   
 
-![Team communication]({{ "/files/img/coms1.jpg" | absolute_url }}) 
+![Team communication]({{ "/files/img/coms2.jpg" | absolute_url }}) 
   
 #### How well did you document your work throughout the project?  
   
@@ -31,8 +31,8 @@ When we were face to face, we quite often had constructive debates about the dir
   
 Yeah, about that . . .  
 I feel that my documentation via Slack and in my coding, was excellent, but I was a bit remiss when it came to recording my work history as I went. There were two main reasons why I failed to document my work effectively:  
-    1.  I am inherently lazy ;) 
-    2.  I missed the first class and I was not aware that it was a requirement until quite late in the semester.
+    1.  I am inherently lazy ;)  
+    2.  I missed the first class and I was not aware that it was a requirement!    
 Below is a code snippet with documentation, so the team could understand what I was up to.  
 
 ``` 
