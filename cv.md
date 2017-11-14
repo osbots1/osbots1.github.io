@@ -7,11 +7,8 @@ permalink: /cv/
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-<base href=AMC-N-470-V1>
 <style>
-<!--
+/* <!--
  /* Font Definitions */
  @font-face
 	{font-family:Wingdings;
@@ -222,11 +219,11 @@ div.WordSection1
 ul
 	{margin-bottom:0cm;}
 -->
-</style>
+</style> */
 
 </head>
 
-<body lang=EN-NZ link="#0563C1" vlink="#954F72">
+<body>
 
 <div class=WordSection1>
 
@@ -236,12 +233,11 @@ ul
 
 <h1>Qualifications</h1>
 
-<h2><span class=Heading2Char>Bachelor of Information Technology</span></h2>
+<h2><span>Bachelor of Information Technology</span></h2>
 
-<p class=MsoNormal style='margin-left:36.0pt;text-indent:36.0pt'>Otago
-Polytechnic, currently enrolled in third year, �A� Student.</p>
+<p>Otago Polytechnic, currently enrolled in third year, 'A' Student.</p>
 
-<h2><span class=Heading2Char>Advanced Certificate in Engineering</span> <span
+<h2><span>Advanced Certificate in Engineering</span> <span
 style='font-size:10.0pt;line-height:107%;font-weight:normal'>(Electrical)</span></h2>
 
 <p class=MsoNormal style='margin-left:36.0pt;text-indent:36.0pt'>Otago
