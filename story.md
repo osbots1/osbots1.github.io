@@ -3,7 +3,9 @@ layout: page
 title: Story
 permalink: /story/
 ---
-
+  
+#### In the beginning . . .  
+  
 Where to begin? Clearly not at the very beginning, that's a very poor place to start. Perhaps that is why I missed the first class and quickly felt lost in Software Engineering. What was all this talk of scrums, sprints, and being agile; is this a sports science class? As a part timer, I do not know a lot of my class mates, nor they me. The unknown is always a concern, this is especially true for group assignments. I was fortunate enough that in my first Software Engineering class there was someone I knew. Better yet, I knew them to be intelligent and hard working. After a brief chat with the bi-streamial Albert, I was invited to join his team in the alternate stream. I crossed streams and was soon introduced to the team and Project 1. The feeling of being out of my depth had not yet abated, but I soon got to know the team that had adopted me.  
   
 <img src="/files/img/streams.jpg" alt="streams" style="margin: 0 auto; display: block;" />
@@ -18,7 +20,7 @@ Trello allowed us to record and assign tasks on a web based platform that update
   
 As I have started discussing the benefits of the Software Engineering paper, lets continue. Personally, I have mixed feelings about the way in which the class works. On one hand, I feel that Polytech is not cheap and here we are doing a lot of self-guided learning. On the other hand, I appreciate that self-guided learning is a skill in itself; potentially one that some of the students may be lacking. I expect this would be particularly true of some of the younger students. The introduction to techniques and technology has been very useful. As stated earlier, I have adopted some of the tools introduced at Polytech for use in my every day work. On the whole, Software Engineering has been an enjoyable learning experience. This is largely due to the groups that I have been involved with. Especially the group for the main project . . .  
   
-## Main Project   
+#### Main Project   
   
 The topics for the main project were introduced and I immediately leaned towards one that seemed to have a clearly defined scope. That project was for Aviation Claims Ltd and involved creating web-based versions of the forms for the client (Derek). I was sold on the project, as I have experience with HTTP, PHP and MySQL, which I anticipated as being some of the major building blocks of the project. Our old team from Project 1 had worked very well together, so we discussed our options and (almost uninanimously) decided that we would focus our CVs and target the same project. We were getting the band back together!  
 
