@@ -20,8 +20,8 @@ As I have started discussing the benefits of the Software Engineering paper, let
   
 ## Main Project   
   
-The topics for the main project were introduced and I immediately leaned towards one that seemed to have a clearly defined scope. That project was for Aviation Claims Ltd and involved creating web-based versions of the forms for the client (Derek). I was sold on the project, as I have experience with HTTP, PHP and MySQL, which I anticipated as being some of the major building blocks of the project. Our old team from Project 1 had worked very well together, so we discussed our options and (almost uninanimously) decided that we would focus our CVs and target the same project. We were getting the band back together!
+The topics for the main project were introduced and I immediately leaned towards one that seemed to have a clearly defined scope. That project was for Aviation Claims Ltd and involved creating web-based versions of the forms for the client (Derek). I was sold on the project, as I have experience with HTTP, PHP and MySQL, which I anticipated as being some of the major building blocks of the project. Our old team from Project 1 had worked very well together, so we discussed our options and (almost uninanimously) decided that we would focus our CVs and target the same project. We were getting the band back together!  
 
-![Getting the band back together]({{ "/files/img/band.jpg" | absolute_url }})  
+![Getting the band back together]({{ "/files/img/blues.jpg" | absolute_url }})  
 
 
