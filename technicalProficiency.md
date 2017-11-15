@@ -55,7 +55,7 @@ Where possible, and to the best of my knowledge, I have followed best practices 
 Version control has been a life saver several times throughout the project. The ability to work concurrently on a single file and then merge the changes was a must have for a team working remotely. I still find Git to be confusing at times, but I am much more familiar with it than a few months ago. I was particularly impressed with Visual Studio Code's Git implementation, which allowed you to commit, push, etc. (note the highlighted sections in the below image).  
 Finally I need to mention the amazing ability to roll back to an older commit; it really saved me after I broke this portfolio a few nights ago!
   
-![Code's Git interface]({{ "/files/img/code_gitjpg" | absolute_url }})  
+![Code's Git interface]({{ "/files/img/code_git.jpg" | absolute_url }})  
 
 #### To what extent do you think you contributed an equal portion of the overall project?
   
