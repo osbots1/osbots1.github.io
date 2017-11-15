@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Story
-permalink: /Story/
+permalink: /story/
 ---
 
 Where to begin? Clearly not at the very beginning, that's a very poor place to start. Perhaps that is why I missed the first class and quickly felt lost in Software Engineering. What was all this talk of scrums, sprints, and being agile; is this a sports science class? As a part timer, I do not know a lot of my class mates, nor they me. The unknown is always a concern, this is especially true for group assignments. I was fortunate enough that in my first Software Engineering class there was someone I knew. Better yet, I knew them to be intelligent and hard working. After a brief chat with the bi-streamial Albert, I was invited to join his team in the alternate stream. I crossed streams and was soon introduced to the team and Project 1. The feeling of being out of my depth had not yet abated, however I soon got to know the team that had adopted me.  
