@@ -53,6 +53,6 @@ and of course, my weaknesses . . .
 Plus I had fun mucking around with Jekyll!  
 In short, very informative for a self-guided learning paper ;)  
 
-*Essay reviewed after feedback from Adon.
+*Essay reviewed after feedback from Adon.  
 **Essay re-reviewed after more feedback from Adon.
 
