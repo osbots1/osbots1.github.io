@@ -48,9 +48,11 @@ The paper also forced me to think about me:
     - my strengths  
     - my other strengths (like modesty)  
 and of course, my weaknesses . . .  
-*I am inherently lazy, I sometimes find it hard to get motivated to do a task unless there is some real pressure. I have now started listing my work tasks on my own Trello board with set deadlines . . . so far, it's working!  
+*I am inherently lazy, I sometimes find it hard to get motivated to do a task unless there is some real pressure. I have now started listing my work tasks on my own Trello board with set deadlines . . . so far, it's working!
+** Well, it's working reasonably well. It would be working better if I didn't have too much work to do anyway.  
 Plus I had fun mucking around with Jekyll!  
 In short, very informative for a self-guided learning paper ;)  
 
 *Essay reviewed after feedback from Adon.
+**Essay re-reviewed after more feedback from Adon.
 
