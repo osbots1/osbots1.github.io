@@ -44,10 +44,10 @@ Once the database was up and running, Phil and I needed other tasks. Phil dove i
 In the later stages of the project I could be found bouncing from one desk to another; helping troublshoot issues, pair programming, or just guiding someone to discover a solution; that's the kind of stuff that really gets me going. I believe pair programming should be pushed more at Polytech. There is usually a proficiency imbalance when you are pair programming. This means there is someone in a guiding role and someone in a learning role; however, something that I have come to understand is that when teaching, we do our best learning.  
 The paper also forced me to think about me:  
     - how I view others  
-    - how I am viewed by others
-    - my strengths
+    - how I am viewed by others  
+    - my strengths  
     - my other strengths (like modesty)  
-and of course, my weaknesses.
-Plus I had fun mucking around with Jekyll!
+and of course, my weaknesses.  
+Plus I had fun mucking around with Jekyll!  
 In short, very informative for a self-guided learning paper ;)
 
