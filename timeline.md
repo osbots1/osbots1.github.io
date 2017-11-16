@@ -61,6 +61,7 @@ permalink: /timeline/
 #### Week 11  
 ---
   - Team created technical report  
+  - Learned a bit about this Jekyll chap  
 
 #### Week 12  
 ---
