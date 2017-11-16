@@ -35,7 +35,7 @@ This rule certainly seemed to hold true for our project. The database creation, 
   
 <img src="/files/img/form.jpg" alt="form" style="margin: 0 auto; display: block; width: 66%;" />
 
-As the project progressed, it seemed that our scrums became less formal. I think part of it was that we were in constant communication, so it felt less important; however, another part of it was that everyone seemed reluctant to step up and assert their dominance over the team. For my part, I was enjoying not being in charge of anything at Polytech. It was a welcome reprieve from my normal work day. Looking back, I should have been more assertive at times, even if only to declare someone else as the scrum master. Regardless, the time table slipped, and we were all feeling the pressure to get our tasks done.
+As the project progressed, it seemed that our scrums became less formal. I think part of it was that we were in constant communication, so it felt less important; however, another part of it was that everyone seemed reluctant to step up and assert their dominance over the team. For my part, I was enjoying not being in charge of anything at Polytech. It was a welcome reprieve from my normal work day. Looking back, I should have been more assertive at times, even if only to declare someone else as the scrum master. Regardless, the time table slipped, and we were all feeling the pressure to get our tasks done. Curiously, it is under these conditions (pressure) that I do my best work.
 
 Once the database was up and running, Phil and I needed other tasks. Phil dove into researching the required file-upload functionality, while I debated with Albert the way in which we would use PHP to interface with our forms and the database. I found these debates to be extremely beneficial. They were not arguments, just a constructive conversation about potential pathways to a solution. Albert had been using a "controller" approach in one of his papers, so we decided to build on that and I set about creating the first "model" to interface between the controller and the database. I found it fascinating that our organic approach to handling the project lead us to the well-known model-view-controller software architectural pattern. I guess there is a good reason why that exists, and it finally makes sense to me now!
 
@@ -54,5 +54,6 @@ Plus I had fun mucking around with Jekyll!
 In short, very informative for a self-guided learning paper ;)  
 
 *Essay reviewed after feedback from Adon.  
-**Essay re-reviewed after more feedback from Adon.
+**Essay re-reviewed after more feedback from Adon.  
+***Essay changed one last time after final feedback from Adon - added a bit more reflection.
 
