@@ -22,9 +22,32 @@ As I have started discussing the benefits of the Software Engineering paper, let
   
 #### Main Project   
   
-The topics for the main project were introduced and I immediately leaned towards one that seemed to have a clearly defined scope. That project was for Aviation Claims Ltd and involved creating web-based versions of the forms for the client (Derek). I was sold on the project, as I have experience with HTTP, PHP and MySQL, which I anticipated as being some of the major building blocks of the project. Our old team from Project 1 had worked very well together, so we discussed our options and (almost uninanimously) decided that we would focus our CVs and target the same project. We were getting the band back together!  
+The topics for the main project were introduced and I immediately leaned towards one that seemed to have a clearly defined scope. That project was for Aviation Claims Ltd and involved creating web-based versions of the forms for the client (Derek). I was sold on the project, as I have experience with HTTP, PHP and MySQL, which I anticipated as being some of the major building blocks of the project. Our old team from Project 1 had worked very well together, so we discussed our options and (almost uninanimously) decided that we would focus our CVs and target the same project.  
+We were getting the band back together!  
   
 <img src="/files/img/blues.jpg" alt="Getting the band back together" style="margin: 0 auto; display: block; width: 66%;" />
   
+The team had some new editions who quickly found their places and the team was back in production mode. We had scrums to work out what needed to be done, tasks were assigned, Trello boards created. We even created a timeline for the project, which indicated a spare month . . . oh how naive we were! The old ninety-ninety rule of coding floated into my mind:  
+> The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.[1]  
+— Tom Cargill, Bell Labs  
+  
+This rule certainly seemed to hold true for our project. The database creation, which was assigned to me and Phil, was a much more time consuming process then I first anticipated. I was already expecting it to be a challenge, but the nature of the various forms, their disparity to each other, and the fact that additional forms were added late in the piece, meant that the database seemed to be in a constant state of flux. This in turn meant that the web versions of the forms had to be re-adjusted frequently to fit the new database structure. In hingsight, we should have had more team members reviewing the paper forms initially and pressed our client to make sure he had not omitted any. I guess it comes down to the six P's of project management: proper planning prevents piss poor performance. While Phil and I were working on the database, the rest of the team were working on the online version of the forms. The forms were coming together rapidly and Phil and I certainly felt the pressure of holding up the team.
+  
+<img src="/files/img/form.jpg" alt="form" style="margin: 0 auto; display: block; width: 66%;" />
 
+As the project progressed, it seemed that our scrums became less formal. I think part of it was that we were in constant communication, so it felt less important; however, another part of it was that everyone seemed reluctant to step up and assert their dominance over the team. For my part, I was enjoying not being in charge of anything at Polytech. It was a welcome reprieve from my normal work day. Looking back, I should have been more assertive at times, even if only to declare someone else as the scrum master. Regardless, the time table slipped and we were all feeling the pressure to get our tasks done.
+
+Once the database was up and running, Phil and I needed other tasks. Phil dove into researching the required file-upload functionality, while I debated with Albert the way in which we would use PHP to interface with our forms and the database. I found these debates to be extremely beneficial. They were not arguements, just a constructive conversation about potential pathways to a solution. Albert had been using a "controller" approach in one of his papers, so we decided to build on that and I set about creating the first "model" to interface between the controller and the database. I found it fascinating that our organic approach to handling the project lead us to the well known model-view-controller software architectural pattern. I guess there is a good reason why that exists, and it finally makes sense to me now!
+
+#### So, what did I get out of it?
+
+In the later stages of the project I could be found bouncing from one desk to another; helping troublshoot issues, pair programming, or just guiding someone to discover a solution; that's the kind of stuff that really gets me going. I believe pair programming should be pushed more at Polytech. There is usually a proficiency imbalance when you are pair programming. This means there is someone in a guiding role and someone in a learning role; however, something that I have come to understand is that when teaching, we do our best learning.  
+The paper also forced me to think about me:  
+    - how I view others  
+    - how I am viewed by others
+    - my strengths
+    - my other strengths (like modesty)  
+and of course, my weaknesses.
+Plus I had fun mucking around with Jekyll!
+In short, very informative for a self-guided learning paper ;)
 
